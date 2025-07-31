@@ -2,12 +2,17 @@
 
 Self-hosted, Sentry-SDK-compatible error tracking.
 
-[The main repository](https://github.com/bugsink/bugsink) contains the installation instructions and documentation.
+[The main repository](https://github.com/bugsink/bugsink) contains the Bugsink sourcecode.
+
+The [Bugsink website](https://www.bugsink.com/) has more information about Bugsink, including [installation
+instructions](https://www.bugsink.com/docs/installation/), general [documentation](https://www.bugsink.com/docs/),
+and a [demo video](https://www.bugsink.com/blog/demo-video/).
+
 
 ![Screenshot: Bugsink UI showing a captured exception](https://www.bugsink.com/static/images/JsonSchemaDefinitionException.5e02c1544273.png)
 
 
-## Selected projects
+## Supporting Repositories
 
 **[bugsink/helm-charts](https://github.com/bugsink/helm-charts)**  
 Helm charts for deploying Bugsink in Kubernetes.
