@@ -1,12 +1,13 @@
-# Bugsink Organization (github.com/bugsink)
+# Bugsink
 
-This is the GitHub organization for [Bugsink](https://www.bugsink.com), a self-hosted, Sentry-SDK-compatible error tracking tool.
+Self-hosted, Sentry-SDK-compatible error tracking.
 
-Main repository: [bugsink/bugsink](https://github.com/bugsink/bugsink)  
+**Main repository**: [bugsink/bugsink](https://github.com/bugsink/bugsink)
 
-→ Installation instructions, quickstart, and documentation are over there.
+→ Installation instructions, quickstart, and documentation are in the main repo.
 
-![Bugsink Screenshot](https://www.bugsink.com/static/images/JsonSchemaDefinitionException.5e02c1544273.png)
+![Screenshot: Bugsink UI showing a captured exception](https://www.bugsink.com/static/images/JsonSchemaDefinitionException.5e02c1544273.png)
+
 
 ## Selected projects
 
