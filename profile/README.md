@@ -32,6 +32,6 @@ Drop-in Django middleware to explain CSRF failures with full request context.
 **[event-samples](https://github.com/bugsink/event-samples)**  
 Sample error events used in development and testing.
 
-**[spoils](https://github.com/bugsink/spoils/)**
+**[spoils](https://github.com/bugsink/spoils/)**  
 A lightweight collection of additional security checks for Bandit.
 
