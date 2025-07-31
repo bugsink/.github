@@ -14,20 +14,23 @@ and a [demo video](https://www.bugsink.com/blog/demo-video/).
 
 ## Supporting Repositories
 
-**[bugsink/helm-charts](https://github.com/bugsink/helm-charts)**  
+**[helm-charts](https://github.com/bugsink/helm-charts)**  
 Helm charts for deploying Bugsink in Kubernetes.
 
-**[bugsink/snappea](https://github.com/bugsink/snappea)**  
+**[snappea](https://github.com/bugsink/snappea)**  
 Minimal task queue. Uses SQLite and `inotify` instead of Redis or brokers.
 
-**[bugsink/monofy](https://github.com/bugsink/monofy)**  
+**[monofy](https://github.com/bugsink/monofy)**  
 Runs multiple long-lived processes in a single Docker container. Simple init alternative.
 
-**[bugsink/dsnrun](https://github.com/bugsink/dsnrun)**  
+**[dsnrun](https://github.com/bugsink/dsnrun)**  
 Run any Python script or module with a Sentry DSN. Designed for quick instrumentation.
 
-**[bugsink/verbose_csrf_middleware](https://github.com/bugsink/verbose_csrf_middleware)**  
+**[verbose_csrf_middleware](https://github.com/bugsink/verbose_csrf_middleware)**  
 Drop-in Django middleware to explain CSRF failures with full request context.
 
-**[bugsink/event-samples](https://github.com/bugsink/event-samples)**  
+**[event-samples](https://github.com/bugsink/event-samples)**  
 Sample error events used in development and testing.
+
+**[spoils](https://github.com/bugsink/spoils/)**
+A lightweight collection of additional security checks for Bandit.
