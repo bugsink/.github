@@ -2,9 +2,7 @@
 
 Self-hosted, Sentry-SDK-compatible error tracking.
 
-**Main repository**: [bugsink/bugsink](https://github.com/bugsink/bugsink)
-
-→ Installation instructions, quickstart, and documentation are in the main repo.
+[The main repository](https://github.com/bugsink/bugsink) contains the installation instructions and documentation.
 
 ![Screenshot: Bugsink UI showing a captured exception](https://www.bugsink.com/static/images/JsonSchemaDefinitionException.5e02c1544273.png)
 
