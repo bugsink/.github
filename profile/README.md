@@ -34,3 +34,4 @@ Sample error events used in development and testing.
 
 **[spoils](https://github.com/bugsink/spoils/)**
 A lightweight collection of additional security checks for Bandit.
+
