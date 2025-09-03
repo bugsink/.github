@@ -26,6 +26,9 @@ Runs multiple long-lived processes in a single Docker container. Simple init alt
 **[dsnrun](https://github.com/bugsink/dsnrun)**  
 Run any Python script or module with a Sentry DSN. Designed for quick instrumentation.
 
+**[ECMA426](https://github.com/bugsink/ecma426)**
+Python implementation of the Source map format specification
+
 **[verbose_csrf_middleware](https://github.com/bugsink/verbose_csrf_middleware)**  
 Drop-in Django middleware to explain CSRF failures with full request context.
 
