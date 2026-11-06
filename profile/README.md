@@ -1,6 +1,10 @@
-# Bugsink
+# Bugsink: Error Tracking Made Simple
 
-Self-hosted, Sentry-SDK-compatible error tracking.
+Bugsink shows you when your code fails in production and why, with full stacktraces, local variables, and request
+context. It works with Sentry's open-source SDKs.
+
+**[Sign Up](https://www.bugsink.com/register/15K/)** and let us run Bugsink for you, or
+**[Self-Host](https://www.bugsink.com/docs/installation/)** on infrastructure you control.
 
 [The main repository](https://github.com/bugsink/bugsink) contains the Bugsink sourcecode.
 
